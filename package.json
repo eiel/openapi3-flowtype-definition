@@ -1,6 +1,6 @@
 {
   "name": "openapi3-flowtype-definition",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "",
   "main": "lib/OpenAPI.js.flow",
   "scripts": {
@@ -8,6 +8,12 @@
     "prepublish": "npm run build",
     "build": "node build.js"
   },
+  "keywords": [
+    "OpenAPI",
+    "flowtype",
+    "types",
+    "swagger"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eiel/openapi3-flowtype-definition.git"

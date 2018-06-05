@@ -27,14 +27,12 @@ const writeOpenAPISchema = async () => {
   const schema = await getJsonSchema()
   const imports = {[jsonSchemaURL]: schema }
   const flow = parseSchema(openAPI, imports)
-  const file = `
-  // @flow
+  const file = `// @flow
 
-  ${flow}
+${flow}
 
-  export type DefinitionsPositiveInteger = number;
-  export type OpenAPI = HttpOpenapisOrgV3SchemaJson;
-  `
+export type DefinitionsPositiveInteger = number;
+export type OpenAPI = HttpOpenapisOrgV3SchemaJson;`
   writeFlowFile(file)
 }
 writeOpenAPISchema()
