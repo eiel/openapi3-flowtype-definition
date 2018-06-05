@@ -1,6 +1,6 @@
 {
   "name": "openapi3-flowtype-definition",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "lib/OpenAPI.js.flow",
   "scripts": {
