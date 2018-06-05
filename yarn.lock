@@ -28,7 +28,7 @@
     lodash "^4.2.0"
     to-fast-properties "^2.0.0"
 
-axios@^0.18.0:
+axios@0.18.0:
   version "0.18.0"
   resolved "https://registry.yarnpkg.com/axios/-/axios-0.18.0.tgz#32d53e4851efdc0a11993b6cd000789d70c05102"
   dependencies:
@@ -51,7 +51,7 @@ esutils@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/esutils/-/esutils-2.0.2.tgz#0abf4f1caa5bcb1f7a9d8acc6dea4faaa04bac9b"
 
-flow-bin@^0.73.0:
+flow-bin@0.73.0:
   version "0.73.0"
   resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.73.0.tgz#da1b90a02b0ef9c439f068c2fc14968db83be425"
 
@@ -69,7 +69,7 @@ jsesc@^2.5.1:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/jsesc/-/jsesc-2.5.1.tgz#e421a2a8e20d6b0819df28908f782526b96dd1fe"
 
-json-schema-to-flow-type@^0.4.0:
+json-schema-to-flow-type@0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/json-schema-to-flow-type/-/json-schema-to-flow-type-0.4.0.tgz#6e40067ea4209e6379f978ca3fd55832800c5bd4"
   dependencies:
