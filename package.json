@@ -2,7 +2,7 @@
   "name": "openapi3-flowtype-definition",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "lib/OpenAPI.js.flow",
   "scripts": {
     "test": "npm run build",
     "build": "node build.js"
@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/eiel/openapi3-flowtype-definition.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Tomohiko Himura <eiel.hal@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/eiel/openapi3-flowtype-definition/issues"
   },
