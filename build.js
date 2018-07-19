@@ -10,7 +10,7 @@ const OpenAPISchemaURL =
   "https://raw.githubusercontent.com/timburks/OpenAPI-Specification/5f3a9a7f547785c3f38001fc0ef82ff621d1bb79/schemas/v3.0/schema.json";
 const jsonSchemaURL = "http://json-schema.org/draft-04/schema";
 const destDir = "lib";
-const outputFile = "OpenAPI.js.flow";
+const outputFile = "OpenAPI.js";
 
 const getJsonSchema = () => axios.get(jsonSchemaURL).then(({ data }) => data);
 const getOpenAPISchema = () =>

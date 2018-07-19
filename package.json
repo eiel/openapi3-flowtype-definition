@@ -2,7 +2,7 @@
   "name": "openapi3-flowtype-definition",
   "version": "0.1.0",
   "description": "",
-  "main": "lib/OpenAPI.js.flow",
+  "main": "lib/OpenAPI.js",
   "scripts": {
     "test": "npm run build",
     "prepublish": "npm run build",
