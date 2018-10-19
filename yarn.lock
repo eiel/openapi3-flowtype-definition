@@ -20,12 +20,12 @@
     lodash "^4.17.5"
     to-fast-properties "^2.0.0"
 
-"@babel/types@^7.0.0-beta.44":
-  version "7.0.0-beta.44"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.0.0-beta.44.tgz#6b1b164591f77dec0a0342aca995f2d046b3a757"
+"@babel/types@^7.0.0":
+  version "7.1.3"
+  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.1.3.tgz#3a767004567060c2f40fca49a304712c525ee37d"
   dependencies:
     esutils "^2.0.2"
-    lodash "^4.2.0"
+    lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
 axios@0.18.0:
@@ -69,18 +69,22 @@ jsesc@^2.5.1:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/jsesc/-/jsesc-2.5.1.tgz#e421a2a8e20d6b0819df28908f782526b96dd1fe"
 
-json-schema-to-flow-type@0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/json-schema-to-flow-type/-/json-schema-to-flow-type-0.4.0.tgz#6e40067ea4209e6379f978ca3fd55832800c5bd4"
+json-schema-to-flow-type@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/json-schema-to-flow-type/-/json-schema-to-flow-type-1.0.0.tgz#8c8fa651f3e569c68b12ee52380cc0205dbd96e7"
   dependencies:
     "@babel/generator" "^7.0.0-beta.44"
-    "@babel/types" "^7.0.0-beta.44"
+    "@babel/types" "^7.0.0"
     eslint-plugin-flow "^2.29.1"
     lodash "4.17.x"
 
-lodash@4.17.x, lodash@^4.15.0, lodash@^4.17.5, lodash@^4.2.0:
+lodash@4.17.x, lodash@^4.15.0, lodash@^4.17.5:
   version "4.17.10"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
+
+lodash@^4.17.10:
+  version "4.17.11"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
 
 ms@2.0.0:
   version "2.0.0"
