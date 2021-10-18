@@ -3,101 +3,85 @@
 
 
 "@babel/generator@^7.0.0-beta.44":
-  version "7.0.0-beta.49"
-  resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.0.0-beta.49.tgz#e9cffda913996accec793bbc25ab91bc19d0bf7a"
+  "integrity" "sha512-ZoCZGcfIJFJuZBqxcY9OjC1KW2lWK64qrX1o4UYL3yshVhwKFYgzpWZ0vvtGMNJdTlvkw0W+HR1VnYN8q3QPFQ=="
+  "resolved" "https://registry.npmjs.org/@babel/generator/-/generator-7.1.3.tgz"
+  "version" "7.1.3"
   dependencies:
-    "@babel/types" "7.0.0-beta.49"
-    jsesc "^2.5.1"
-    lodash "^4.17.5"
-    source-map "^0.5.0"
-    trim-right "^1.0.1"
+    "@babel/types" "^7.1.3"
+    "jsesc" "^2.5.1"
+    "lodash" "^4.17.10"
+    "source-map" "^0.5.0"
+    "trim-right" "^1.0.1"
 
-"@babel/types@7.0.0-beta.49":
-  version "7.0.0-beta.49"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.0.0-beta.49.tgz#b7e3b1c3f4d4cfe11bdf8c89f1efd5e1617b87a6"
+"@babel/types@^7.0.0", "@babel/types@^7.1.3":
+  "integrity" "sha512-RpPOVfK+yatXyn8n4PB1NW6k9qjinrXrRR8ugBN8fD6hCy5RXI6PSbVqpOJBO9oSaY7Nom4ohj35feb0UR9hSA=="
+  "resolved" "https://registry.npmjs.org/@babel/types/-/types-7.1.3.tgz"
+  "version" "7.1.3"
   dependencies:
-    esutils "^2.0.2"
-    lodash "^4.17.5"
-    to-fast-properties "^2.0.0"
+    "esutils" "^2.0.2"
+    "lodash" "^4.17.10"
+    "to-fast-properties" "^2.0.0"
 
-"@babel/types@^7.0.0":
-  version "7.1.3"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.1.3.tgz#3a767004567060c2f40fca49a304712c525ee37d"
+"axios@0.21.2":
+  "integrity" "sha512-87otirqUw3e8CzHTMO+/9kh/FSgXt/eVDvipijwDtEuwbkySWZ9SBm6VEubmJ/kLKEoLQV/POhxXFb66bfekfg=="
+  "resolved" "https://registry.npmjs.org/axios/-/axios-0.21.2.tgz"
+  "version" "0.21.2"
   dependencies:
-    esutils "^2.0.2"
-    lodash "^4.17.10"
-    to-fast-properties "^2.0.0"
+    "follow-redirects" "^1.14.0"
 
-axios@0.19.0:
-  version "0.19.0"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-0.19.0.tgz#8e09bff3d9122e133f7b8101c8fbdd00ed3d2ab8"
+"eslint-plugin-flow@^2.29.1":
+  "integrity" "sha1-6iD1m3WbetAOL1mLaoK6IyhpsqM="
+  "resolved" "https://registry.npmjs.org/eslint-plugin-flow/-/eslint-plugin-flow-2.29.1.tgz"
+  "version" "2.29.1"
   dependencies:
-    follow-redirects "1.5.10"
-    is-buffer "^2.0.2"
+    "lodash" "^4.15.0"
 
-debug@=3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/debug/-/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
-  dependencies:
-    ms "2.0.0"
+"esutils@^2.0.2":
+  "integrity" "sha1-Cr9PHKpbyx96nYrMbepPqqBLrJs="
+  "resolved" "https://registry.npmjs.org/esutils/-/esutils-2.0.2.tgz"
+  "version" "2.0.2"
 
-eslint-plugin-flow@^2.29.1:
-  version "2.29.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-flow/-/eslint-plugin-flow-2.29.1.tgz#ea20f59b759b7ad00e2f598b6a82ba232869b2a3"
-  dependencies:
-    lodash "^4.15.0"
+"flow-bin@0.78.0":
+  "integrity" "sha512-LV55tE+ItkC9HQAbEK+VxpBe54Ryp/dj4q9KmqDIfhV7mtP+hbvc/1AUf/AaWFIve3eURO0cxoGN4ZQQ3o2HTg=="
+  "resolved" "https://registry.npmjs.org/flow-bin/-/flow-bin-0.78.0.tgz"
+  "version" "0.78.0"
 
-esutils@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/esutils/-/esutils-2.0.2.tgz#0abf4f1caa5bcb1f7a9d8acc6dea4faaa04bac9b"
+"follow-redirects@^1.14.0":
+  "integrity" "sha512-zwGkiSXC1MUJG/qmeIFH2HBJx9u0V46QGUe3YR1fXG8bXQxq7fLj0RjLZQ5nubr9qNJUZrH+xUcwXEoXNpfS+g=="
+  "resolved" "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.14.4.tgz"
+  "version" "1.14.4"
 
-flow-bin@0.78.0:
-  version "0.78.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.78.0.tgz#df9fe7f9c9a2dfaff39083949fe2d831b41627b7"
+"jsesc@^2.5.1":
+  "integrity" "sha1-5CGiqOINawgZ3yiQj3glJrlt0f4="
+  "resolved" "https://registry.npmjs.org/jsesc/-/jsesc-2.5.1.tgz"
+  "version" "2.5.1"
 
-follow-redirects@1.5.10:
-  version "1.5.10"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.5.10.tgz#7b7a9f9aea2fdff36786a94ff643ed07f4ff5e2a"
-  dependencies:
-    debug "=3.1.0"
-
-is-buffer@^2.0.2:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/is-buffer/-/is-buffer-2.0.3.tgz#4ecf3fcf749cbd1e472689e109ac66261a25e725"
-
-jsesc@^2.5.1:
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/jsesc/-/jsesc-2.5.1.tgz#e421a2a8e20d6b0819df28908f782526b96dd1fe"
-
-json-schema-to-flow-type@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/json-schema-to-flow-type/-/json-schema-to-flow-type-1.0.0.tgz#8c8fa651f3e569c68b12ee52380cc0205dbd96e7"
+"json-schema-to-flow-type@1.0.0":
+  "integrity" "sha512-dwcUVo1MTUFa1oIkkQTEBfxiOQ12Jhsd8d+F2rWiOxTuWYTmDtcltKmaTg8iSBuE+bDEN43Jj1w3AqX8nQqh4g=="
+  "resolved" "https://registry.npmjs.org/json-schema-to-flow-type/-/json-schema-to-flow-type-1.0.0.tgz"
+  "version" "1.0.0"
   dependencies:
     "@babel/generator" "^7.0.0-beta.44"
     "@babel/types" "^7.0.0"
-    eslint-plugin-flow "^2.29.1"
-    lodash "4.17.x"
+    "eslint-plugin-flow" "^2.29.1"
+    "lodash" "4.17.x"
 
-lodash@4.17.x, lodash@^4.15.0, lodash@^4.17.5:
-  version "4.17.10"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
+"lodash@^4.15.0", "lodash@^4.17.10", "lodash@4.17.x":
+  "integrity" "sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg=="
+  "resolved" "https://registry.npmjs.org/lodash/-/lodash-4.17.11.tgz"
+  "version" "4.17.11"
 
-lodash@^4.17.10:
-  version "4.17.11"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
+"source-map@^0.5.0":
+  "integrity" "sha1-igOdLRAh0i0eoUyA2OpGi6LvP8w="
+  "resolved" "https://registry.npmjs.org/source-map/-/source-map-0.5.7.tgz"
+  "version" "0.5.7"
 
-ms@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
+"to-fast-properties@^2.0.0":
+  "integrity" "sha1-3F5pjL0HkmW8c+A3doGk5Og/YW4="
+  "resolved" "https://registry.npmjs.org/to-fast-properties/-/to-fast-properties-2.0.0.tgz"
+  "version" "2.0.0"
 
-source-map@^0.5.0:
-  version "0.5.7"
-  resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.7.tgz#8a039d2d1021d22d1ea14c80d8ea468ba2ef3fcc"
-
-to-fast-properties@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/to-fast-properties/-/to-fast-properties-2.0.0.tgz#dc5e698cbd079265bc73e0377681a4e4e83f616e"
-
-trim-right@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/trim-right/-/trim-right-1.0.1.tgz#cb2e1203067e0c8de1f614094b9fe45704ea6003"
+"trim-right@^1.0.1":
+  "integrity" "sha1-yy4SAwZ+DI3h9hQJS5/kVwTqYAM="
+  "resolved" "https://registry.npmjs.org/trim-right/-/trim-right-1.0.1.tgz"
+  "version" "1.0.1"
