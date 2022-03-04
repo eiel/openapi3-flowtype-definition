@@ -41,10 +41,10 @@
   "resolved" "https://registry.npmjs.org/esutils/-/esutils-2.0.2.tgz"
   "version" "2.0.2"
 
-"flow-bin@0.172.0":
-  "integrity" "sha512-v9KolEk3qd+wFc2ABPaSr5/7VWbHOjdAzRaWwynEtaeMcKN0awlx0Q7b71g/XgVf/fWMR+K8q+3s/TCH+Gky/Q=="
-  "resolved" "https://registry.npmjs.org/flow-bin/-/flow-bin-0.172.0.tgz"
-  "version" "0.172.0"
+"flow-bin@0.173.0":
+  "integrity" "sha512-CIvShSnB4I7SsfkE9S7ECpUCkBNqDQGDWr+0uzulKGYEBnCYwFzITE1T84weLmINQwO1dR6ntsH0LlWLoGCquQ=="
+  "resolved" "https://registry.npmjs.org/flow-bin/-/flow-bin-0.173.0.tgz"
+  "version" "0.173.0"
 
 "follow-redirects@^1.14.8":
   "integrity" "sha512-1x0S9UVJHsQprFcEC/qnNzBLcIxsjAV905f/UkQxbclCsoTWlacCNOpQa/anodLl2uaEKFhfWOvM2Qg77+15zA=="
