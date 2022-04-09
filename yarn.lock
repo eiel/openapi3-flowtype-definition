@@ -3,85 +3,85 @@
 
 
 "@babel/generator@^7.0.0-beta.44":
-  "integrity" "sha512-ZoCZGcfIJFJuZBqxcY9OjC1KW2lWK64qrX1o4UYL3yshVhwKFYgzpWZ0vvtGMNJdTlvkw0W+HR1VnYN8q3QPFQ=="
-  "resolved" "https://registry.npmjs.org/@babel/generator/-/generator-7.1.3.tgz"
-  "version" "7.1.3"
+  version "7.1.3"
+  resolved "https://registry.npmjs.org/@babel/generator/-/generator-7.1.3.tgz"
+  integrity sha512-ZoCZGcfIJFJuZBqxcY9OjC1KW2lWK64qrX1o4UYL3yshVhwKFYgzpWZ0vvtGMNJdTlvkw0W+HR1VnYN8q3QPFQ==
   dependencies:
     "@babel/types" "^7.1.3"
-    "jsesc" "^2.5.1"
-    "lodash" "^4.17.10"
-    "source-map" "^0.5.0"
-    "trim-right" "^1.0.1"
+    jsesc "^2.5.1"
+    lodash "^4.17.10"
+    source-map "^0.5.0"
+    trim-right "^1.0.1"
 
 "@babel/types@^7.0.0", "@babel/types@^7.1.3":
-  "integrity" "sha512-RpPOVfK+yatXyn8n4PB1NW6k9qjinrXrRR8ugBN8fD6hCy5RXI6PSbVqpOJBO9oSaY7Nom4ohj35feb0UR9hSA=="
-  "resolved" "https://registry.npmjs.org/@babel/types/-/types-7.1.3.tgz"
-  "version" "7.1.3"
+  version "7.1.3"
+  resolved "https://registry.npmjs.org/@babel/types/-/types-7.1.3.tgz"
+  integrity sha512-RpPOVfK+yatXyn8n4PB1NW6k9qjinrXrRR8ugBN8fD6hCy5RXI6PSbVqpOJBO9oSaY7Nom4ohj35feb0UR9hSA==
   dependencies:
-    "esutils" "^2.0.2"
-    "lodash" "^4.17.10"
-    "to-fast-properties" "^2.0.0"
+    esutils "^2.0.2"
+    lodash "^4.17.10"
+    to-fast-properties "^2.0.0"
 
-"axios@0.26.1":
-  "integrity" "sha512-fPwcX4EvnSHuInCMItEhAGnaSEXRBjtzh9fOtsE6E1G6p7vl7edEeZe11QHf18+6+9gR5PbKV/sGKNaD8YaMeA=="
-  "resolved" "https://registry.npmjs.org/axios/-/axios-0.26.1.tgz"
-  "version" "0.26.1"
+axios@0.26.1:
+  version "0.26.1"
+  resolved "https://registry.npmjs.org/axios/-/axios-0.26.1.tgz"
+  integrity sha512-fPwcX4EvnSHuInCMItEhAGnaSEXRBjtzh9fOtsE6E1G6p7vl7edEeZe11QHf18+6+9gR5PbKV/sGKNaD8YaMeA==
   dependencies:
-    "follow-redirects" "^1.14.8"
+    follow-redirects "^1.14.8"
 
-"eslint-plugin-flow@^2.29.1":
-  "integrity" "sha1-6iD1m3WbetAOL1mLaoK6IyhpsqM="
-  "resolved" "https://registry.npmjs.org/eslint-plugin-flow/-/eslint-plugin-flow-2.29.1.tgz"
-  "version" "2.29.1"
+eslint-plugin-flow@^2.29.1:
+  version "2.29.1"
+  resolved "https://registry.npmjs.org/eslint-plugin-flow/-/eslint-plugin-flow-2.29.1.tgz"
+  integrity sha1-6iD1m3WbetAOL1mLaoK6IyhpsqM=
   dependencies:
-    "lodash" "^4.15.0"
+    lodash "^4.15.0"
 
-"esutils@^2.0.2":
-  "integrity" "sha1-Cr9PHKpbyx96nYrMbepPqqBLrJs="
-  "resolved" "https://registry.npmjs.org/esutils/-/esutils-2.0.2.tgz"
-  "version" "2.0.2"
+esutils@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.npmjs.org/esutils/-/esutils-2.0.2.tgz"
+  integrity sha1-Cr9PHKpbyx96nYrMbepPqqBLrJs=
 
-"flow-bin@0.174.1":
-  "integrity" "sha512-r69pWMF+b+dbEIq/a8V3B/p6bIjLqVUXjQqC6yDCeVSXL6BQT4QkLJeSn1i877ahFw2GiK3kzIMgfnuZBWEaPQ=="
-  "resolved" "https://registry.npmjs.org/flow-bin/-/flow-bin-0.174.1.tgz"
-  "version" "0.174.1"
+flow-bin@0.175.1:
+  version "0.175.1"
+  resolved "https://registry.npmjs.org/flow-bin/-/flow-bin-0.175.1.tgz"
+  integrity sha512-zMCP0BPa9BrfBSR7QTcyT/XBwzUbyLdNG0eXvBuNxfHCbMRkUzSceRoOaEZIw+R+GH0UHjVfUvPJ30hXxz1Nfw==
 
-"follow-redirects@^1.14.8":
-  "integrity" "sha512-1x0S9UVJHsQprFcEC/qnNzBLcIxsjAV905f/UkQxbclCsoTWlacCNOpQa/anodLl2uaEKFhfWOvM2Qg77+15zA=="
-  "resolved" "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.14.8.tgz"
-  "version" "1.14.8"
+follow-redirects@^1.14.8:
+  version "1.14.8"
+  resolved "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.14.8.tgz"
+  integrity sha512-1x0S9UVJHsQprFcEC/qnNzBLcIxsjAV905f/UkQxbclCsoTWlacCNOpQa/anodLl2uaEKFhfWOvM2Qg77+15zA==
 
-"jsesc@^2.5.1":
-  "integrity" "sha1-5CGiqOINawgZ3yiQj3glJrlt0f4="
-  "resolved" "https://registry.npmjs.org/jsesc/-/jsesc-2.5.1.tgz"
-  "version" "2.5.1"
+jsesc@^2.5.1:
+  version "2.5.1"
+  resolved "https://registry.npmjs.org/jsesc/-/jsesc-2.5.1.tgz"
+  integrity sha1-5CGiqOINawgZ3yiQj3glJrlt0f4=
 
-"json-schema-to-flow-type@1.0.0":
-  "integrity" "sha512-dwcUVo1MTUFa1oIkkQTEBfxiOQ12Jhsd8d+F2rWiOxTuWYTmDtcltKmaTg8iSBuE+bDEN43Jj1w3AqX8nQqh4g=="
-  "resolved" "https://registry.npmjs.org/json-schema-to-flow-type/-/json-schema-to-flow-type-1.0.0.tgz"
-  "version" "1.0.0"
+json-schema-to-flow-type@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/json-schema-to-flow-type/-/json-schema-to-flow-type-1.0.0.tgz"
+  integrity sha512-dwcUVo1MTUFa1oIkkQTEBfxiOQ12Jhsd8d+F2rWiOxTuWYTmDtcltKmaTg8iSBuE+bDEN43Jj1w3AqX8nQqh4g==
   dependencies:
     "@babel/generator" "^7.0.0-beta.44"
     "@babel/types" "^7.0.0"
-    "eslint-plugin-flow" "^2.29.1"
-    "lodash" "4.17.x"
+    eslint-plugin-flow "^2.29.1"
+    lodash "4.17.x"
 
-"lodash@^4.15.0", "lodash@^4.17.10", "lodash@4.17.x":
-  "integrity" "sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg=="
-  "resolved" "https://registry.npmjs.org/lodash/-/lodash-4.17.11.tgz"
-  "version" "4.17.11"
+lodash@4.17.x, lodash@^4.15.0, lodash@^4.17.10:
+  version "4.17.11"
+  resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.11.tgz"
+  integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
 
-"source-map@^0.5.0":
-  "integrity" "sha1-igOdLRAh0i0eoUyA2OpGi6LvP8w="
-  "resolved" "https://registry.npmjs.org/source-map/-/source-map-0.5.7.tgz"
-  "version" "0.5.7"
+source-map@^0.5.0:
+  version "0.5.7"
+  resolved "https://registry.npmjs.org/source-map/-/source-map-0.5.7.tgz"
+  integrity sha1-igOdLRAh0i0eoUyA2OpGi6LvP8w=
 
-"to-fast-properties@^2.0.0":
-  "integrity" "sha1-3F5pjL0HkmW8c+A3doGk5Og/YW4="
-  "resolved" "https://registry.npmjs.org/to-fast-properties/-/to-fast-properties-2.0.0.tgz"
-  "version" "2.0.0"
+to-fast-properties@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.npmjs.org/to-fast-properties/-/to-fast-properties-2.0.0.tgz"
+  integrity sha1-3F5pjL0HkmW8c+A3doGk5Og/YW4=
 
-"trim-right@^1.0.1":
-  "integrity" "sha1-yy4SAwZ+DI3h9hQJS5/kVwTqYAM="
-  "resolved" "https://registry.npmjs.org/trim-right/-/trim-right-1.0.1.tgz"
-  "version" "1.0.1"
+trim-right@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/trim-right/-/trim-right-1.0.1.tgz"
+  integrity sha1-yy4SAwZ+DI3h9hQJS5/kVwTqYAM=
