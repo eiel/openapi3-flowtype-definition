@@ -60,10 +60,10 @@ esutils@^2.0.2:
   resolved "https://registry.npmjs.org/esutils/-/esutils-2.0.2.tgz"
   integrity sha1-Cr9PHKpbyx96nYrMbepPqqBLrJs=
 
-flow-bin@0.213.1:
-  version "0.213.1"
-  resolved "https://registry.npmjs.org/flow-bin/-/flow-bin-0.213.1.tgz"
-  integrity sha512-ptyG+RmHbWx9KEElAdxdLOrZ/qKc3m/aIB6VG0ExH7BEuJ2ruK5rdUfzuC329b9QFtbawjpW2jLGeiFHBdmBvQ==
+flow-bin@0.232.0:
+  version "0.232.0"
+  resolved "https://registry.npmjs.org/flow-bin/-/flow-bin-0.232.0.tgz"
+  integrity sha512-7uOycTN+Ys2nYRJRig5S2yN41ZokW7bC4K1GC4nCDa/3FAZLP5/mQbee6UjxFBP9MC4yUYi17bdFTFzCH8bHeg==
 
 follow-redirects@^1.15.0:
   version "1.15.2"

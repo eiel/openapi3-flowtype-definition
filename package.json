@@ -25,7 +25,7 @@
   "homepage": "https://github.com/eiel/openapi3-flowtype-definition#readme",
   "devDependencies": {
     "axios": "1.4.0",
-    "flow-bin": "0.213.1",
+    "flow-bin": "0.232.0",
     "json-schema-to-flow-type": "1.0.0"
   }
 }
